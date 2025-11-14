@@ -49,7 +49,5 @@ for i in range(4):
 print ("My name is Inay Jain")
 
 
-# Section 2: Ques 
-
 
 
